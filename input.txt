@@ -1,0 +1,19 @@
+import io;
+import ioPlus;
+class PropWithLoop {
+
+
+    public int calcule(){
+        int a;
+        int b;
+
+        a = 1;
+        b = 2;
+
+        return a + b;
+    }
+
+    public static void main(String[] args) {
+        ioPlus.printResult(1234567);
+    }
+}
